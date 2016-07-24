@@ -7,8 +7,8 @@
     <ProjectGuid>{0DD7662F-6782-460D-B007-8894583BBD92}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>gradebook</RootNamespace>
-    <AssemblyName>gradebook</AssemblyName>
+    <RootNamespace>Grades</RootNamespace>
+    <AssemblyName>Grades</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

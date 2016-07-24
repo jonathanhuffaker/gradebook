@@ -1,6 +1,6 @@
-C:\Users\NSSStudent\Documents\GitHub\gradebook\gradebook\bin\Debug\gradebook.exe.config
 C:\Users\NSSStudent\Documents\GitHub\gradebook\gradebook\obj\Debug\Grades.csprojResolveAssemblyReference.cache
-C:\Users\NSSStudent\Documents\GitHub\gradebook\gradebook\bin\Debug\gradebook.exe
-C:\Users\NSSStudent\Documents\GitHub\gradebook\gradebook\bin\Debug\gradebook.pdb
-C:\Users\NSSStudent\Documents\GitHub\gradebook\gradebook\obj\Debug\gradebook.exe
-C:\Users\NSSStudent\Documents\GitHub\gradebook\gradebook\obj\Debug\gradebook.pdb
+C:\Users\NSSStudent\Documents\GitHub\gradebook\gradebook\bin\Debug\Grades.exe.config
+C:\Users\NSSStudent\Documents\GitHub\gradebook\gradebook\bin\Debug\Grades.exe
+C:\Users\NSSStudent\Documents\GitHub\gradebook\gradebook\bin\Debug\Grades.pdb
+C:\Users\NSSStudent\Documents\GitHub\gradebook\gradebook\obj\Debug\Grades.exe
+C:\Users\NSSStudent\Documents\GitHub\gradebook\gradebook\obj\Debug\Grades.pdb
