@@ -12,7 +12,7 @@ namespace Grades.Tests
     public class GradebookTests
     {
         [TestMethod]
-        public void ComputesHightestGreade()
+        public void ComputesHightestGrade()
         {
             GradeBook book = new GradeBook();
             book.AddGrade(10);
@@ -20,6 +20,17 @@ namespace Grades.Tests
 
             GradeStatistics result = book.ComputeStatistics();
             Assert.AreEqual(90, result.HighestGrade);
+        }
+
+        [TestMethod]
+        public void ComputesLowestGrade()
+        {
+            GradeBook book = new GradeBook();
+            book.AddGrade(10);
+            book.AddGrade(90);
+
+            GradeStatistics result = book.ComputeStatistics();
+            Assert.AreEqual(10, result.LowestGrade);
         }
     }
 }
